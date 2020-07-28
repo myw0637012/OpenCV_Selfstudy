@@ -1,6 +1,6 @@
 # OpenCV
 
-## 1. OpenCV의 정의
+## 1. OpenCV의 정의.
 <br>
 - 오픈 소스 컴퓨터 비전 라이브러리 중 하나로 크로스플랫폼과 실시간 이미지 프로세싱에 중점을 둔
   라이브러리이다. Windows, Linux, OS X(macOS), iOS, Android 등 다양한 플랫폼을 지원한다.
